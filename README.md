@@ -1,1 +1,9 @@
-# crop-image-computer-vision
+# Project
+
+# Commands
+
+- To run the project:
+
+```bash
+streamlit run ./app.py
+```
