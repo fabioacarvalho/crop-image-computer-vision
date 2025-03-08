@@ -30,7 +30,7 @@ st.html(
         </ul>
     """
 )
-st.success("Done")
+st.warning("In progress")
 
 st.html(
     """
